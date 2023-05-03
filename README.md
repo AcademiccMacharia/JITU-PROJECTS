@@ -1,6 +1,6 @@
 # JITU PROJECTS
 
-![dev](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-courses%2Fdevelopment-courses%2Fweb-development-courses%2Fweb-development-roadmap-for-beginners&psig=AOvVaw2QSBAEedx8ApARuPfvm0iD&ust=1683204283785000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjsm96W2f4CFQAAAAAdAAAAABAg)
+![dev](https://www.careerguide.com/career/wp-content/uploads/2021/06/giphy-3-1.gif)
 **Welcome** to *JITU PROJECTS*, the repository designed to take your web development skills to the next level! Our collection of web development projects and tutorials will help you hone your skills, improve your understanding of web technologies, and keep you up-to-date with the latest trends in the industry.
 
 We understand that web development can be overwhelming, with new frameworks and libraries popping up seemingly every day. That's why we've curated a selection of projects and tutorials that are easy to follow and provide hands-on experience with popular web development technologies.
